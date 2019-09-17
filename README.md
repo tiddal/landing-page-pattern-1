@@ -1,4 +1,4 @@
-# Landing Page Patter 1
+# Landing Page Pattern 1
 
 ### This is just a small landing page prototype driven to sell or announce products.
 
