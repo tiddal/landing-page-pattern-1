@@ -2,7 +2,7 @@
 
 ### This is just a small landing page prototype driven to sell or announce products.
 
-## Tecnologies used:
+## Technologies used:
 
 - HTML 5
 - CSS 3
